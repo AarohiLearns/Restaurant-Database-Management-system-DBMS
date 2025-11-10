@@ -17,6 +17,6 @@ A full-stack web application for managing restaurant operations including menu i
 - **Tools**: MongoDB Compass for database visualization
 - link-  http://localhost:5000
 - Website Images
-- <img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/b5d4f7f2-ab9b-415a-9523-010ed0564555" />
- <img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/50640d6e-6e1a-428e-b9f6-7de3edd7b0ab" />
- <img width="941" height="467" alt="image" src="https://github.com/user-attachments/assets/25ceeb29-741b-45ba-9772-d9aec0899b55" />
+<img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/b5d4f7f2-ab9b-415a-9523-010ed0564555" />
+<img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/50640d6e-6e1a-428e-b9f6-7de3edd7b0ab" />
+<img width="941" height="467" alt="image" src="https://github.com/user-attachments/assets/25ceeb29-741b-45ba-9772-d9aec0899b55" />
